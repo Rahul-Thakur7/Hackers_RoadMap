@@ -105,7 +105,7 @@
 ### 🚀 Ideas:
 - Freelancing websites pe bug find karna
 - Startups ko security help dena
-- Own projects banana (Subdomain Finder, XSS Tool, Auto Recon Bot)
+- Own projects banana
 - GitHub pe apne tools upload karna
 
 ---
@@ -118,17 +118,7 @@
 - [Bug Bounty Bootcamp](https://www.pdfdrive.com/bug-bounty-bootcamp-e57583768.html)
 
 ---
-
-## 🛡️ Final Level: Become a Security Analyst
-
 > System hacking se leke secure karne tak
-
-### 📌 Kya Seekhna Hai:
-- Network Pentesting
-- Windows & Linux Privilege Escalation
-- Active Directory attacks
-- Report writing, CVSS scoring
-- Cyber Laws & Ethics
 
 ---
 
